@@ -3,3 +3,6 @@
 
 # This is our code
 print ("I luv git")
+
+# This is a change to our code
+print("I luv merging and branching!")
